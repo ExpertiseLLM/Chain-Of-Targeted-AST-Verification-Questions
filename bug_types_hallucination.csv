@@ -1,0 +1,330 @@
+link to repo,func_name,buggy_id,level,Labels
+https://github.com/arghavanMor/bugs_in_LLMs/tree/master/CoderEval/Codex/self_contained/subclasses,subclasses,buggy_7.py,self_contained, / Misinterpretation
+https://github.com/arghavanMor/bugs_in_LLMs/tree/master/CoderEval/PanGu-Coder/self_contained/unit_of_work,unit_of_work,buggy_6.py,self_contained,Failure To Generate
+https://github.com/arghavanMor/bugs_in_LLMs/tree/master/CoderEval/Codex/plib_runnable/process_text_links,process_text_links,buggy_5.py,plib_runnable,Failure To Generate
+https://github.com/arghavanMor/bugs_in_LLMs/tree/master/CoderEval/Codex/plib_runnable/_dump_string,_dump_string,buggy_2.py,plib_runnable,Failure To Generate
+https://github.com/arghavanMor/bugs_in_LLMs/tree/master/CoderEval/PanGu-Coder/slib_runnable/make_find_paths,make_find_paths,buggy_1.py,slib_runnable,hallucination
+https://github.com/arghavanMor/bugs_in_LLMs/tree/master/CoderEval/Codex/slib_runnable/_c_optimizations_ignored,_c_optimizations_ignored,buggy_3.py,slib_runnable,hallucination
+https://github.com/arghavanMor/bugs_in_LLMs/tree/master/CoderEval/PanGu-Coder/self_contained/get_logical_path_map,get_logical_path_map,buggy_0.py,self_contained,hallucination
+https://github.com/arghavanMor/bugs_in_LLMs/tree/master/CoderEval/PanGu-Coder/self_contained/get,get,buggy_3.py,self_contained,hallucination
+https://github.com/arghavanMor/bugs_in_LLMs/tree/master/CoderEval/PanGu-Coder/self_contained/is_fill_request_el,is_fill_request_el,buggy_2.py,self_contained,Hallucination
+https://github.com/arghavanMor/bugs_in_LLMs/tree/master/CoderEval/Codex/self_contained/_replace_register,_replace_register,buggy_4.py,self_contained,hallucination
+https://github.com/arghavanMor/bugs_in_LLMs/tree/master/CoderEval/CodeGen/self_contained/_replace_register,_replace_register,buggy_1.py,self_contained,hallucination
+https://github.com/arghavanMor/bugs_in_LLMs/tree/master/CoderEval/Codex/self_contained/paging,paging,buggy_0.py,self_contained,Hallucination
+https://github.com/arghavanMor/bugs_in_LLMs/tree/master/CoderEval/PanGu-Coder/slib_runnable/run_command,run_command,buggy_8.py,slib_runnable,Hallucination
+https://github.com/arghavanMor/bugs_in_LLMs/tree/master/CoderEval/PanGu-Coder/self_contained/get_logical_path_map,get_logical_path_map,buggy_3.py,self_contained,Hallucination
+https://github.com/arghavanMor/bugs_in_LLMs/tree/master/CoderEval/PanGu-Coder/self_contained/_legacy_mergeOrderings,_legacy_mergeOrderings,buggy_7.py,self_contained,Hallucination
+https://github.com/arghavanMor/bugs_in_LLMs/tree/master/CoderEval/Codex/slib_runnable/make_find_paths,make_find_paths,buggy_6.py,slib_runnable,hallucination
+https://github.com/arghavanMor/bugs_in_LLMs/tree/master/CoderEval/CodeGen/self_contained/match_pubdate,match_pubdate,buggy_5.py,self_contained,Hallucination
+https://github.com/arghavanMor/bugs_in_LLMs/tree/master/CoderEval/Codex/plib_runnable/process_text_links,process_text_links,buggy_2.py,plib_runnable,Hallucination
+https://github.com/arghavanMor/bugs_in_LLMs/tree/master/CoderEval/PanGu-Coder/slib_runnable/match_file_by_prefix,match_file_by_prefix,buggy_7.py,slib_runnable,Hallucination
+https://github.com/arghavanMor/bugs_in_LLMs/tree/master/CoderEval/Codex/slib_runnable/make_find_paths,make_find_paths,buggy_5.py,slib_runnable,Hallucination
+https://github.com/arghavanMor/bugs_in_LLMs/tree/master/CoderEval/PanGu-Coder/self_contained/is_fill_compute_el,is_fill_compute_el,buggy_3.py,self_contained,Hallucination
+https://github.com/arghavanMor/bugs_in_LLMs/tree/master/CoderEval/PanGu-Coder/self_contained/minimalBases,minimalBases,buggy_4.py,self_contained,Hallucination
+https://github.com/arghavanMor/bugs_in_LLMs/tree/master/CoderEval/Codex/self_contained/paging,paging,buggy_6.py,self_contained,Hallucination / Incomplete generation
+https://github.com/arghavanMor/bugs_in_LLMs/tree/master/CoderEval/CodeGen/plib_runnable/tzname_in_python2,tzname_in_python2,buggy_1.py,plib_runnable,hallucination / misinterpretation
+https://github.com/arghavanMor/bugs_in_LLMs/tree/master/CoderEval/CodeGen/self_contained/match_pubdate,match_pubdate,buggy_0.py,self_contained,hallucination / Prompt-biased
+https://github.com/arghavanMor/bugs_in_LLMs/tree/master/CoderEval/CodeGen/self_contained/parser_flags,parser_flags,buggy_5.py,self_contained,Hallucination / Wrong attribute / Prompt Biased
+https://github.com/arghavanMor/bugs_in_LLMs/tree/master/CoderEval/Codex/plib_runnable/_dump_string,_dump_string,buggy_9.py,plib_runnable,Hallucination / Wrong input type / wrong attribute
+https://github.com/arghavanMor/bugs_in_LLMs/tree/master/CoderEval/CodeGen/self_contained/unit_of_work,unit_of_work,buggy_0.py,self_contained,hallucinations
+https://github.com/arghavanMor/bugs_in_LLMs/tree/master/CoderEval/PanGu-Coder/slib_runnable/prepare_repository_from_archive,prepare_repository_from_archive,buggy_2.py,slib_runnable,Hallunication
+https://github.com/arghavanMor/bugs_in_LLMs/tree/master/CoderEval/Codex/self_contained/get_logical_path_map,get_logical_path_map,buggy_5.py,self_contained,Hallunication
+https://github.com/arghavanMor/bugs_in_LLMs/tree/master/CoderEval/PanGu-Coder/slib_runnable/make_find_paths,make_find_paths,buggy_6.py,slib_runnable,Hallunication
+https://github.com/arghavanMor/bugs_in_LLMs/tree/master/CoderEval/PanGu-Coder/self_contained/is_fill_compute_el,is_fill_compute_el,buggy_4.py,self_contained,Hallunication
+https://github.com/arghavanMor/bugs_in_LLMs/tree/master/CoderEval/Codex/slib_runnable/_c_optimizations_required,_c_optimizations_required,buggy_1.py,slib_runnable,Hallunication
+https://github.com/arghavanMor/bugs_in_LLMs/tree/master/CoderEval/PanGu-Coder/slib_runnable/_parse_image_ref,_parse_image_ref,buggy_4.py,slib_runnable,Hallunication
+https://github.com/arghavanMor/bugs_in_LLMs/tree/master/CoderEval/PanGu-Coder/self_contained/_inline_r_setup,_inline_r_setup,buggy_8.py,self_contained,Hallunication
+https://github.com/arghavanMor/bugs_in_LLMs/tree/master/CoderEval/PanGu-Coder/plib_runnable/run_command,run_command,buggy_8.py,plib_runnable,Hallunication
+https://github.com/arghavanMor/bugs_in_LLMs/tree/master/CoderEval/CodeGen/self_contained/get_logical_path_map,get_logical_path_map,buggy_1.py,self_contained,Hallunication / Prompt-biased code/Misinterpretation
+https://github.com/arghavanMor/bugs_in_LLMs/tree/master/CoderEval/Codex/slib_runnable/get_repo_archive,get_repo_archive,buggy_1.py,slib_runnable,Hallunication/ Prompt-biased code
+https://github.com/arghavanMor/bugs_in_LLMs/tree/master/CoderEval/CodeGen/self_contained/get_logical_path_map,get_logical_path_map,buggy_7.py,self_contained,Hallunication/ Wrong Attribute/ Incomplete Generation
+https://github.com/arghavanMor/bugs_in_LLMs/tree/master/CoderEval/Codex/plib_runnable/tzname_in_python2,tzname_in_python2,buggy_4.py,plib_runnable,Hallunication/Misinterpretation
+https://github.com/arghavanMor/bugs_in_LLMs/tree/master/CoderEval/Codex/slib_runnable/is_local,is_local,buggy_2.py,slib_runnable,Hallunication/Missing Corner Case
+https://github.com/arghavanMor/bugs_in_LLMs/tree/master/CoderEval/Codex/slib_runnable/_c_optimizations_required,_c_optimizations_required,buggy_4.py,slib_runnable,Hallunication/Prompt-biased code
+https://github.com/arghavanMor/bugs_in_LLMs/tree/master/CoderEval/CodeGen/plib_runnable/tzname_in_python2,tzname_in_python2,buggy_6.py,plib_runnable,Incomplete Generation
+https://github.com/arghavanMor/bugs_in_LLMs/tree/master/CoderEval/CodeGen/slib_runnable/prepare_repository_from_archive,prepare_repository_from_archive,buggy_2.py,slib_runnable,Incomplete Generation
+https://github.com/arghavanMor/bugs_in_LLMs/tree/master/CoderEval/CodeGen/plib_runnable/list_of_file_names,list_of_file_names,buggy_1.py,plib_runnable,Incomplete Generation
+https://github.com/arghavanMor/bugs_in_LLMs/tree/master/CoderEval/CodeGen/slib_runnable/make_find_paths,make_find_paths,buggy_5.py,slib_runnable,Incomplete Generation
+https://github.com/arghavanMor/bugs_in_LLMs/tree/master/CoderEval/Codex/slib_runnable/run_command,run_command,buggy_6.py,slib_runnable,Incomplete Generation
+https://github.com/arghavanMor/bugs_in_LLMs/tree/master/CoderEval/CodeGen/plib_runnable/_extract_number_and_supplment_from_issue_element,_extract_number_and_supplment_from_issue_element,buggy_2.py,plib_runnable,Incomplete Generation
+https://github.com/arghavanMor/bugs_in_LLMs/tree/master/CoderEval/CodeGen/self_contained/was_processed,was_processed,buggy_1.py,self_contained,Incomplete Generation
+https://github.com/arghavanMor/bugs_in_LLMs/tree/master/CoderEval/Codex/self_contained/_legacy_mergeOrderings,_legacy_mergeOrderings,buggy_7.py,self_contained,Incomplete generation
+https://github.com/arghavanMor/bugs_in_LLMs/tree/master/CoderEval/CodeGen/slib_runnable/make_find_paths,make_find_paths,buggy_0.py,slib_runnable,Incomplete generation
+https://github.com/arghavanMor/bugs_in_LLMs/tree/master/CoderEval/Codex/slib_runnable/write_configuration,write_configuration,buggy_5.py,slib_runnable,Incomplete generation
+https://github.com/arghavanMor/bugs_in_LLMs/tree/master/CoderEval/CodeGen/self_contained/string_to_int,string_to_int,buggy_5.py,self_contained,Incomplete Generation
+https://github.com/arghavanMor/bugs_in_LLMs/tree/master/CoderEval/CodeGen/slib_runnable/run_command,run_command,buggy_7.py,slib_runnable,Incomplete generation
+https://github.com/arghavanMor/bugs_in_LLMs/tree/master/CoderEval/Codex/slib_runnable/run_command,run_command,buggy_4.py,slib_runnable,Incomplete generation
+https://github.com/arghavanMor/bugs_in_LLMs/tree/master/CoderEval/CodeGen/slib_runnable/prepare_repository_from_archive,prepare_repository_from_archive,buggy_5.py,slib_runnable,incomplete generation
+https://github.com/arghavanMor/bugs_in_LLMs/tree/master/CoderEval/PanGu-Coder/slib_runnable/_c_optimizations_ignored,_c_optimizations_ignored,buggy_9.py,slib_runnable,Incomplete generation
+https://github.com/arghavanMor/bugs_in_LLMs/tree/master/CoderEval/PanGu-Coder/slib_runnable/_c_optimizations_ignored,_c_optimizations_ignored,buggy_0.py,slib_runnable,Incomplete generation
+https://github.com/arghavanMor/bugs_in_LLMs/tree/master/CoderEval/Codex/self_contained/get,get,buggy_1.py,self_contained,Incomplete generation
+https://github.com/arghavanMor/bugs_in_LLMs/tree/master/CoderEval/CodeGen/slib_runnable/addignored,addignored,buggy_8.py,slib_runnable,Incomplete generation
+https://github.com/arghavanMor/bugs_in_LLMs/tree/master/CoderEval/CodeGen/plib_runnable/run_command,run_command,buggy_8.py,plib_runnable,Incomplete generation
+https://github.com/arghavanMor/bugs_in_LLMs/tree/master/CoderEval/Codex/self_contained/unit_of_work,unit_of_work,buggy_1.py,self_contained,Incomplete generation / Hallucination
+https://github.com/arghavanMor/bugs_in_LLMs/tree/master/CoderEval/CodeGen/self_contained/_inline_r_setup,_inline_r_setup,buggy_8.py,self_contained,Incomplete Generation / Synthax error
+https://github.com/arghavanMor/bugs_in_LLMs/tree/master/CoderEval/CodeGen/slib_runnable/write_configuration,write_configuration,buggy_1.py,slib_runnable,Incomplete generation/Misinterpretation
+https://github.com/arghavanMor/bugs_in_LLMs/tree/master/CoderEval/Codex/self_contained/plus_or_dot,plus_or_dot,buggy_5.py,self_contained,Memorization?
+https://github.com/arghavanMor/bugs_in_LLMs/tree/master/CoderEval/Codex/slib_runnable/parse_frequency,parse_frequency,buggy_2.py,slib_runnable,Minsinterpretation
+https://github.com/arghavanMor/bugs_in_LLMs/tree/master/CoderEval/Codex/slib_runnable/regex_dict,regex_dict,buggy_8.py,slib_runnable,Minsterpretation
+https://github.com/arghavanMor/bugs_in_LLMs/tree/master/CoderEval/Codex/self_contained/parser_flags#completion,parser_flags,buggy_6.py,self_contained,Minsterpretation
+https://github.com/arghavanMor/bugs_in_LLMs/tree/master/CoderEval/CodeGen/slib_runnable/make_find_paths,make_find_paths,buggy_8.py,slib_runnable,Misinterepretation
+https://github.com/arghavanMor/bugs_in_LLMs/tree/master/CoderEval/CodeGen/plib_runnable/gaussian,gaussian,buggy_7.py,plib_runnable,Misinterpretation
+https://github.com/arghavanMor/bugs_in_LLMs/tree/master/CoderEval/CodeGen/self_contained/_dictsum,_dictsum,buggy_1.py,self_contained,Misinterpretation
+https://github.com/arghavanMor/bugs_in_LLMs/tree/master/CoderEval/CodeGen/plib_runnable/build_app_logger,build_app_logger,buggy_7.py,plib_runnable,Misinterpretation
+https://github.com/arghavanMor/bugs_in_LLMs/tree/master/CoderEval/Codex/self_contained/register_vcs_handler,register_vcs_handler,buggy_6.py,self_contained,Misinterpretation
+https://github.com/arghavanMor/bugs_in_LLMs/tree/master/CoderEval/CodeGen/self_contained/round_half_to_even,round_half_to_even,buggy_5.py,self_contained,Misinterpretation
+https://github.com/arghavanMor/bugs_in_LLMs/tree/master/CoderEval/PanGu-Coder/slib_runnable/run_command,run_command,buggy_4.py,slib_runnable,Misinterpretation
+https://github.com/arghavanMor/bugs_in_LLMs/tree/master/CoderEval/PanGu-Coder/slib_runnable/addignored,addignored,buggy_2.py,slib_runnable,Misinterpretation
+https://github.com/arghavanMor/bugs_in_LLMs/tree/master/CoderEval/CodeGen/plib_runnable/gaussian,gaussian,buggy_1.py,plib_runnable,Misinterpretation
+https://github.com/arghavanMor/bugs_in_LLMs/tree/master/CoderEval/PanGu-Coder/self_contained/plus_or_dot,plus_or_dot,buggy_3.py,self_contained,Misinterpretation
+https://github.com/arghavanMor/bugs_in_LLMs/tree/master/CoderEval/PanGu-Coder/slib_runnable/oneline,oneline,buggy_8.py,slib_runnable,Misinterpretation
+https://github.com/arghavanMor/bugs_in_LLMs/tree/master/CoderEval/PanGu-Coder/slib_runnable/make_find_paths,make_find_paths,buggy_0.py,slib_runnable,Misinterpretation
+https://github.com/arghavanMor/bugs_in_LLMs/tree/master/CoderEval/PanGu-Coder/self_contained/paging,paging,buggy_7.py,self_contained,Misinterpretation
+https://github.com/arghavanMor/bugs_in_LLMs/tree/master/CoderEval/PanGu-Coder/self_contained/is_none_string,is_none_string,buggy_1.py,self_contained,Misinterpretation
+https://github.com/arghavanMor/bugs_in_LLMs/tree/master/CoderEval/Codex/slib_runnable/split,split,buggy_1.py,slib_runnable,Misinterpretation
+https://github.com/arghavanMor/bugs_in_LLMs/tree/master/CoderEval/Codex/self_contained/minimalBases,minimalBases,buggy_6.py,self_contained,Misinterpretation
+https://github.com/arghavanMor/bugs_in_LLMs/tree/master/CoderEval/CodeGen/plib_runnable/is_ipv4,is_ipv4,buggy_9.py,plib_runnable,Misinterpretation
+https://github.com/arghavanMor/bugs_in_LLMs/tree/master/CoderEval/CodeGen/slib_runnable/files_list_from_zipfile,files_list_from_zipfile,buggy_2.py,slib_runnable,Misinterpretation
+https://github.com/arghavanMor/bugs_in_LLMs/tree/master/CoderEval/PanGu-Coder/self_contained/size_to_bytes,size_to_bytes,buggy_2.py,self_contained,Misinterpretation
+https://github.com/arghavanMor/bugs_in_LLMs/tree/master/CoderEval/PanGu-Coder/self_contained/int_to_string,int_to_string,buggy_9.py,self_contained,Misinterpretation
+https://github.com/arghavanMor/bugs_in_LLMs/tree/master/CoderEval/PanGu-Coder/self_contained/parser_flags#,parser_flags,buggy_3.py,self_contained,Misinterpretation
+https://github.com/arghavanMor/bugs_in_LLMs/tree/master/CoderEval/Codex/slib_runnable/oneline,oneline,buggy_5.py,slib_runnable,Misinterpretation
+https://github.com/arghavanMor/bugs_in_LLMs/tree/master/CoderEval/Codex/slib_runnable/addignored,addignored,buggy_3.py,slib_runnable,Misinterpretation
+https://github.com/arghavanMor/bugs_in_LLMs/tree/master/CoderEval/CodeGen/slib_runnable/oneline,oneline,buggy_7.py,slib_runnable,Misinterpretation
+https://github.com/arghavanMor/bugs_in_LLMs/tree/master/CoderEval/Codex/self_contained/minimalBases,minimalBases,buggy_4.py,self_contained,Misinterpretation
+https://github.com/arghavanMor/bugs_in_LLMs/tree/master/CoderEval/PanGu-Coder/plib_runnable/gaussian,gaussian,buggy_4.py,plib_runnable,Misinterpretation
+https://github.com/arghavanMor/bugs_in_LLMs/tree/master/CoderEval/PanGu-Coder/self_contained/round_half_to_even,round_half_to_even,buggy_4.py,self_contained,Misinterpretation
+https://github.com/arghavanMor/bugs_in_LLMs/tree/master/CoderEval/PanGu-Coder/plib_runnable/gaussian,gaussian,buggy_5.py,plib_runnable,Misinterpretation
+https://github.com/arghavanMor/bugs_in_LLMs/tree/master/CoderEval/Codex/self_contained/parser_flags#,parser_flags,buggy_1.py,self_contained,Misinterpretation
+https://github.com/arghavanMor/bugs_in_LLMs/tree/master/CoderEval/PanGu-Coder/self_contained/parser_flags,parser_flags,buggy_6.py,self_contained,Misinterpretation
+https://github.com/arghavanMor/bugs_in_LLMs/tree/master/CoderEval/CodeGen/slib_runnable/parse_frequency,parse_frequency,buggy_9.py,slib_runnable,Misinterpretation
+https://github.com/arghavanMor/bugs_in_LLMs/tree/master/CoderEval/PanGu-Coder/plib_runnable/force_string,force_string,buggy_9.py,plib_runnable,Misinterpretation
+https://github.com/arghavanMor/bugs_in_LLMs/tree/master/CoderEval/PanGu-Coder/slib_runnable/addignored,addignored,buggy_3.py,slib_runnable,Misinterpretation
+https://github.com/arghavanMor/bugs_in_LLMs/tree/master/CoderEval/Codex/self_contained/_legacy_mergeOrderings,_legacy_mergeOrderings,buggy_5.py,self_contained,Misinterpretation
+https://github.com/arghavanMor/bugs_in_LLMs/tree/master/CoderEval/PanGu-Coder/slib_runnable/regex_dict,regex_dict,buggy_0.py,slib_runnable,Misinterpretation
+https://github.com/arghavanMor/bugs_in_LLMs/tree/master/CoderEval/Codex/slib_runnable/split,split,buggy_9.py,slib_runnable,Misinterpretation
+https://github.com/arghavanMor/bugs_in_LLMs/tree/master/CoderEval/PanGu-Coder/slib_runnable/is_gitbash,is_gitbash,buggy_3.py,slib_runnable,Misinterpretation
+https://github.com/arghavanMor/bugs_in_LLMs/tree/master/CoderEval/PanGu-Coder/self_contained/parser_flags,parser_flags,buggy_5.py,self_contained,Misinterpretation
+https://github.com/arghavanMor/bugs_in_LLMs/tree/master/CoderEval/CodeGen/slib_runnable/make_find_paths,make_find_paths,buggy_7.py,slib_runnable,Misinterpretation
+https://github.com/arghavanMor/bugs_in_LLMs/tree/master/CoderEval/PanGu-Coder/slib_runnable/run_command,run_command,buggy_2.py,slib_runnable,Misinterpretation
+https://github.com/arghavanMor/bugs_in_LLMs/tree/master/CoderEval/PanGu-Coder/self_contained/is_fill_request_el,is_fill_request_el,buggy_6.py,self_contained,Misinterpretation
+https://github.com/arghavanMor/bugs_in_LLMs/tree/master/CoderEval/CodeGen/slib_runnable/fix_namespace_prefix_w,fix_namespace_prefix_w,buggy_2.py,slib_runnable,Misinterpretation
+https://github.com/arghavanMor/bugs_in_LLMs/tree/master/CoderEval/PanGu-Coder/plib_runnable/parse_version,parse_version,buggy_9.py,plib_runnable,Misinterpretation
+https://github.com/arghavanMor/bugs_in_LLMs/tree/master/CoderEval/CodeGen/slib_runnable/oneline,oneline,buggy_6.py,slib_runnable,Misinterpretation
+https://github.com/arghavanMor/bugs_in_LLMs/tree/master/CoderEval/CodeGen/slib_runnable/fix_namespace_prefix_w,fix_namespace_prefix_w,buggy_9.py,slib_runnable,Misinterpretation
+https://github.com/arghavanMor/bugs_in_LLMs/tree/master/CoderEval/Codex/self_contained/parser_flags,parser_flags,buggy_9.py,self_contained,Misinterpretation
+https://github.com/arghavanMor/bugs_in_LLMs/tree/master/CoderEval/CodeGen/slib_runnable/addignored,addignored,buggy_7.py,slib_runnable,Misinterpretation 
+https://github.com/arghavanMor/bugs_in_LLMs/tree/master/CoderEval/Codex/plib_runnable/process_text_links,process_text_links,buggy_6.py,plib_runnable,Misinterpretation 
+https://github.com/arghavanMor/bugs_in_LLMs/tree/master/CoderEval/PanGu-Coder/slib_runnable/files_list,files_list,buggy_3.py,slib_runnable,Misinterpretation 
+https://github.com/arghavanMor/bugs_in_LLMs/tree/master/CoderEval/PanGu-Coder/self_contained/subclasses,subclasses,buggy_6.py,self_contained,Misinterpretation 
+https://github.com/arghavanMor/bugs_in_LLMs/tree/master/CoderEval/Codex/self_contained/parser_flags#completion,parser_flags,buggy_5.py,self_contained,Misinterpretation 
+https://github.com/arghavanMor/bugs_in_LLMs/tree/master/CoderEval/PanGu-Coder/self_contained/subclasses,subclasses,buggy_4.py,self_contained,Misinterpretation /  non-prompted considartion
+https://github.com/arghavanMor/bugs_in_LLMs/tree/master/CoderEval/CodeGen/slib_runnable/remove_ending_os_sep,remove_ending_os_sep,buggy_9.py,slib_runnable,Misinterpretation / Missing Corner Case
+https://github.com/arghavanMor/bugs_in_LLMs/tree/master/CoderEval/PanGu-Coder/slib_runnable/match_file_by_prefix,match_file_by_prefix,buggy_5.py,slib_runnable,Misinterpretation / Non Prompted Consideration
+https://github.com/arghavanMor/bugs_in_LLMs/tree/master/CoderEval/Codex/slib_runnable/run_command,run_command,buggy_1.py,slib_runnable,Misinterpretation / Non prompted consideration
+https://github.com/arghavanMor/bugs_in_LLMs/tree/master/CoderEval/PanGu-Coder/self_contained/size_to_bytes,size_to_bytes,buggy_9.py,self_contained,Misinterpretation / non-prompted considartion
+https://github.com/arghavanMor/bugs_in_LLMs/tree/master/CoderEval/Codex/self_contained/_dictsum,_dictsum,buggy_2.py,self_contained,Misinterpretation / non-prompted considartion
+https://github.com/arghavanMor/bugs_in_LLMs/tree/master/CoderEval/PanGu-Coder/self_contained/parser_flags#,parser_flags,buggy_2.py,self_contained,Misinterpretation / NPC
+https://github.com/arghavanMor/bugs_in_LLMs/tree/master/CoderEval/Codex/plib_runnable/find_roots,find_roots,buggy_2.py,plib_runnable,Misinterpretation / silly mistake
+https://github.com/arghavanMor/bugs_in_LLMs/tree/master/CoderEval/Codex/slib_runnable/addignored,addignored,buggy_2.py,slib_runnable,Misinterpretation / Silly Mistake
+https://github.com/arghavanMor/bugs_in_LLMs/tree/master/CoderEval/Codex/slib_runnable/addignored,addignored,buggy_0.py,slib_runnable,Misinterpretation / Silly Mistake
+https://github.com/arghavanMor/bugs_in_LLMs/tree/master/CoderEval/CodeGen/self_contained/subclasses,subclasses,buggy_1.py,self_contained,Misinterpretation / Silly Mistake
+https://github.com/arghavanMor/bugs_in_LLMs/tree/master/CoderEval/CodeGen/slib_runnable/remove_ending_os_sep,remove_ending_os_sep,buggy_8.py,slib_runnable,Misinterpretation / Stupid mistake
+https://github.com/arghavanMor/bugs_in_LLMs/tree/master/CoderEval/CodeGen/self_contained/match_pubdate,match_pubdate,buggy_7.py,self_contained,Misinterpretation / Stupid mistake
+https://github.com/arghavanMor/bugs_in_LLMs/tree/master/CoderEval/CodeGen/plib_runnable/parse_version,parse_version,buggy_8.py,plib_runnable,Misinterpretation / Syntax error
+https://github.com/arghavanMor/bugs_in_LLMs/tree/master/CoderEval/CodeGen/self_contained/size_to_bytes,size_to_bytes,buggy_8.py,self_contained,Misinterpretation / Synthax Error
+https://github.com/arghavanMor/bugs_in_LLMs/tree/master/CoderEval/Codex/plib_runnable/_extract_number_and_supplment_from_issue_element,_extract_number_and_supplment_from_issue_element,buggy_0.py,plib_runnable,Misinterpretation / Wrong Attribute
+https://github.com/arghavanMor/bugs_in_LLMs/tree/master/CoderEval/Codex/self_contained/_replace_register,_replace_register,buggy_0.py,self_contained,Misinterpretation / Wrong attribute
+https://github.com/arghavanMor/bugs_in_LLMs/tree/master/CoderEval/PanGu-Coder/slib_runnable/get_repo_archive,get_repo_archive,buggy_6.py,slib_runnable,Misinterpretation / Wrong Input Type
+https://github.com/arghavanMor/bugs_in_LLMs/tree/master/CoderEval/CodeGen/slib_runnable/regex_dict,regex_dict,buggy_0.py,slib_runnable,Misinterpretation / Wrong Input Type
+https://github.com/arghavanMor/bugs_in_LLMs/tree/master/CoderEval/PanGu-Coder/self_contained/int_to_string,int_to_string,buggy_5.py,self_contained,Misinterpretation/ Silly Mistake/ Hallunication
+https://github.com/arghavanMor/bugs_in_LLMs/tree/master/CoderEval/CodeGen/self_contained/is_fill_compute_el,is_fill_compute_el,buggy_4.py,self_contained,Misinterpretation/ wrong attribute / silly mistake
+https://github.com/arghavanMor/bugs_in_LLMs/tree/master/CoderEval/CodeGen/self_contained/subclasses,subclasses,buggy_8.py,self_contained,Misinterpretation/Hallunication ()
+https://github.com/arghavanMor/bugs_in_LLMs/tree/master/CoderEval/Codex/self_contained/parser_flags#completion,parser_flags,buggy_4.py,self_contained,Misinterpretation/non-prompted considartion
+https://github.com/arghavanMor/bugs_in_LLMs/tree/master/CoderEval/CodeGen/slib_runnable/regex_dict,regex_dict,buggy_8.py,slib_runnable,Misinterpretation/Prompt-biased code
+https://github.com/arghavanMor/bugs_in_LLMs/tree/master/CoderEval/Codex/plib_runnable/_dump_string,_dump_string,buggy_3.py,plib_runnable,Misinterpretation/Synthax Error
+https://github.com/arghavanMor/bugs_in_LLMs/tree/master/CoderEval/CodeGen/slib_runnable/addignored,addignored,buggy_1.py,slib_runnable,Misinterpretation/Wrong Attribute/Silly Mistake
+https://github.com/arghavanMor/bugs_in_LLMs/tree/master/CoderEval/Codex/slib_runnable/strip_root,strip_root,buggy_0.py,slib_runnable,Missing corner case
+https://github.com/arghavanMor/bugs_in_LLMs/tree/master/CoderEval/PanGu-Coder/slib_runnable/is_local,is_local,buggy_6.py,slib_runnable,Missing COrner case
+https://github.com/arghavanMor/bugs_in_LLMs/tree/master/CoderEval/PanGu-Coder/plib_runnable/is_ipv4,is_ipv4,buggy_1.py,plib_runnable,Missing Corner Case
+https://github.com/arghavanMor/bugs_in_LLMs/tree/master/CoderEval/CodeGen/slib_runnable/strip_root,strip_root,buggy_8.py,slib_runnable,Missing Corner Case
+https://github.com/arghavanMor/bugs_in_LLMs/tree/master/CoderEval/Codex/self_contained/vertex3tuple,vertex3tuple,buggy_7.py,self_contained,Missing Corner Case
+https://github.com/arghavanMor/bugs_in_LLMs/tree/master/CoderEval/Codex/slib_runnable/write_configuration,write_configuration,buggy_0.py,slib_runnable,Missing Corner Case
+https://github.com/arghavanMor/bugs_in_LLMs/tree/master/CoderEval/PanGu-Coder/slib_runnable/strip_root,strip_root,buggy_9.py,slib_runnable,Missing Corner Case
+https://github.com/arghavanMor/bugs_in_LLMs/tree/master/CoderEval/Codex/slib_runnable/is_local,is_local,buggy_3.py,slib_runnable,Missing Corner Case
+https://github.com/arghavanMor/bugs_in_LLMs/tree/master/CoderEval/PanGu-Coder/slib_runnable/strip_root,strip_root,buggy_4.py,slib_runnable,Missing Corner Case
+https://github.com/arghavanMor/bugs_in_LLMs/tree/master/CoderEval/Codex/self_contained/size_to_bytes,size_to_bytes,buggy_1.py,self_contained,Missing Corner Case
+https://github.com/arghavanMor/bugs_in_LLMs/tree/master/CoderEval/Codex/self_contained/is_none_string,is_none_string,buggy_8.py,self_contained,Missing Corner Case
+https://github.com/arghavanMor/bugs_in_LLMs/tree/master/CoderEval/Codex/self_contained/is_none_string,is_none_string,buggy_5.py,self_contained,Missing Corner Case
+https://github.com/arghavanMor/bugs_in_LLMs/tree/master/CoderEval/PanGu-Coder/self_contained/is_none_string,is_none_string,buggy_5.py,self_contained,Missing Corner Case
+https://github.com/arghavanMor/bugs_in_LLMs/tree/master/CoderEval/PanGu-Coder/slib_runnable/strip_root,strip_root,buggy_5.py,slib_runnable,Missing corner case
+https://github.com/arghavanMor/bugs_in_LLMs/tree/master/CoderEval/CodeGen/plib_runnable/force_string,force_string,buggy_9.py,plib_runnable,Missing Corner Case
+https://github.com/arghavanMor/bugs_in_LLMs/tree/master/CoderEval/PanGu-Coder/slib_runnable/remove_ending_os_sep,remove_ending_os_sep,buggy_5.py,slib_runnable,Missing corner case
+https://github.com/arghavanMor/bugs_in_LLMs/tree/master/CoderEval/Codex/slib_runnable/strip_root,strip_root,buggy_4.py,slib_runnable,Missing corner case
+https://github.com/arghavanMor/bugs_in_LLMs/tree/master/CoderEval/PanGu-Coder/plib_runnable/force_string,force_string,buggy_2.py,plib_runnable,Missing Corner Case
+https://github.com/arghavanMor/bugs_in_LLMs/tree/master/CoderEval/PanGu-Coder/slib_runnable/is_local,is_local,buggy_0.py,slib_runnable,Missing corner case
+https://github.com/arghavanMor/bugs_in_LLMs/tree/master/CoderEval/PanGu-Coder/plib_runnable/xml_children_as_dict,xml_children_as_dict,buggy_6.py,plib_runnable,MIssing Corner Case
+https://github.com/arghavanMor/bugs_in_LLMs/tree/master/CoderEval/PanGu-Coder/slib_runnable/os_is_mac,os_is_mac,buggy_9.py,slib_runnable,Missing Corner case
+https://github.com/arghavanMor/bugs_in_LLMs/tree/master/CoderEval/Codex/self_contained/is_none_string,is_none_string,buggy_9.py,self_contained,Missing Corner case
+https://github.com/arghavanMor/bugs_in_LLMs/tree/master/CoderEval/Codex/self_contained/was_processed,was_processed,buggy_0.py,self_contained,MIssing Corner Case
+https://github.com/arghavanMor/bugs_in_LLMs/tree/master/CoderEval/Codex/plib_runnable/build_app_logger,build_app_logger,buggy_9.py,plib_runnable,Missing corner case
+https://github.com/arghavanMor/bugs_in_LLMs/tree/master/CoderEval/Codex/plib_runnable/force_string,force_string,buggy_8.py,plib_runnable,missing corner case /  misinterpretation 
+https://github.com/arghavanMor/bugs_in_LLMs/tree/master/CoderEval/Codex/slib_runnable/is_local,is_local,buggy_1.py,slib_runnable,Missing corner case / Hallucination
+https://github.com/arghavanMor/bugs_in_LLMs/tree/master/CoderEval/Codex/self_contained/was_processed,was_processed,buggy_3.py,self_contained,Missing Corner case / Non prompted consideration
+https://github.com/arghavanMor/bugs_in_LLMs/tree/master/CoderEval/Codex/slib_runnable/get_pattern,get_pattern,buggy_8.py,slib_runnable,Missing Corner case / Non prompted consideration
+https://github.com/arghavanMor/bugs_in_LLMs/tree/master/CoderEval/Codex/self_contained/is_none_string,is_none_string,buggy_0.py,self_contained,Missing Corner Case / Prompt biased
+https://github.com/arghavanMor/bugs_in_LLMs/tree/master/CoderEval/Codex/slib_runnable/prepare_repository_from_archive,prepare_repository_from_archive,buggy_1.py,slib_runnable,Missing corner case / silly mistake
+https://github.com/arghavanMor/bugs_in_LLMs/tree/master/CoderEval/PanGu-Coder/slib_runnable/write_configuration,write_configuration,buggy_4.py,slib_runnable,Missing Corner Case / Silly Mistake
+https://github.com/arghavanMor/bugs_in_LLMs/tree/master/CoderEval/PanGu-Coder/slib_runnable/strip_root,strip_root,buggy_3.py,slib_runnable,Missing corner case / Silly Mistake
+https://github.com/arghavanMor/bugs_in_LLMs/tree/master/CoderEval/PanGu-Coder/self_contained/_replace_url_args,_replace_url_args,buggy_4.py,self_contained,Missing corner case / Silly Mistake
+https://github.com/arghavanMor/bugs_in_LLMs/tree/master/CoderEval/Codex/slib_runnable/regex_dict,regex_dict,buggy_5.py,slib_runnable,Missing corner case / Silly Mistake
+https://github.com/arghavanMor/bugs_in_LLMs/tree/master/CoderEval/Codex/slib_runnable/run_command,run_command,buggy_0.py,slib_runnable,Missing Corner Case/ non-prompted considartion/misinterpretation
+https://github.com/arghavanMor/bugs_in_LLMs/tree/master/CoderEval/Codex/self_contained/int_to_string,int_to_string,buggy_5.py,self_contained,non-prompted considartion
+https://github.com/arghavanMor/bugs_in_LLMs/tree/master/CoderEval/CodeGen/slib_runnable/files_list,files_list,buggy_7.py,slib_runnable,non-prompted considartion
+https://github.com/arghavanMor/bugs_in_LLMs/tree/master/CoderEval/CodeGen/slib_runnable/os_is_mac,os_is_mac,buggy_6.py,slib_runnable,non-prompted considartion
+https://github.com/arghavanMor/bugs_in_LLMs/tree/master/CoderEval/Codex/plib_runnable/make_array,make_array,buggy_2.py,plib_runnable,non-prompted considartion / silly mistake
+https://github.com/arghavanMor/bugs_in_LLMs/tree/master/CoderEval/CodeGen/slib_runnable/oneline,oneline,buggy_1.py,slib_runnable,non-prompted considartion/ Misinterpretation
+https://github.com/arghavanMor/bugs_in_LLMs/tree/master/CoderEval/CodeGen/slib_runnable/unquote,unquote,buggy_9.py,slib_runnable,NPC
+https://github.com/arghavanMor/bugs_in_LLMs/tree/master/CoderEval/PanGu-Coder/self_contained/match_pubdate,match_pubdate,buggy_4.py,self_contained,NPC
+https://github.com/arghavanMor/bugs_in_LLMs/tree/master/CoderEval/CodeGen/plib_runnable/is_ipv4,is_ipv4,buggy_5.py,plib_runnable,NPC / Misinterpretation
+https://github.com/arghavanMor/bugs_in_LLMs/tree/master/CoderEval/Codex/self_contained/unit_of_work,unit_of_work,buggy_7.py,self_contained,Prompt biased
+https://github.com/arghavanMor/bugs_in_LLMs/tree/master/CoderEval/Codex/slib_runnable/make_find_paths,make_find_paths,buggy_3.py,slib_runnable,Prompt biased
+https://github.com/arghavanMor/bugs_in_LLMs/tree/master/CoderEval/Codex/slib_runnable/_parse_image_ref,_parse_image_ref,buggy_9.py,slib_runnable,Prompt biased
+https://github.com/arghavanMor/bugs_in_LLMs/tree/master/CoderEval/Codex/self_contained/unit_of_work,unit_of_work,buggy_6.py,self_contained,Prompt biased
+https://github.com/arghavanMor/bugs_in_LLMs/tree/master/CoderEval/PanGu-Coder/slib_runnable/files_list_from_zipfile,files_list_from_zipfile,buggy_1.py,slib_runnable,Prompt biased
+https://github.com/arghavanMor/bugs_in_LLMs/tree/master/CoderEval/CodeGen/slib_runnable/_c_optimizations_required,_c_optimizations_required,buggy_4.py,slib_runnable,Prompt Biased / Silly Mistake
+https://github.com/arghavanMor/bugs_in_LLMs/tree/master/CoderEval/Codex/self_contained/unit_of_work,unit_of_work,buggy_3.py,self_contained,Prompt biased / Wrong attribute
+https://github.com/arghavanMor/bugs_in_LLMs/tree/master/CoderEval/CodeGen/self_contained/unit_of_work,unit_of_work,buggy_3.py,self_contained,Prompt biased / Wrong attribute
+https://github.com/arghavanMor/bugs_in_LLMs/tree/master/CoderEval/CodeGen/slib_runnable/files_list_from_zipfile,files_list_from_zipfile,buggy_9.py,slib_runnable,"Prompt biased, Wrong Input Type"
+https://github.com/arghavanMor/bugs_in_LLMs/tree/master/CoderEval/CodeGen/slib_runnable/files_list,files_list,buggy_0.py,slib_runnable,Prompt problem
+https://github.com/arghavanMor/bugs_in_LLMs/tree/master/CoderEval/Codex/plib_runnable/gaussian,gaussian,buggy_5.py,plib_runnable,Prompt problem
+https://github.com/arghavanMor/bugs_in_LLMs/tree/master/CoderEval/Codex/plib_runnable/gaussian,gaussian,buggy_2.py,plib_runnable,Prompt problem
+https://github.com/arghavanMor/bugs_in_LLMs/tree/master/CoderEval/CodeGen/slib_runnable/unquote,unquote,buggy_6.py,slib_runnable,Prompt Problem / Misinterpretation
+https://github.com/arghavanMor/bugs_in_LLMs/tree/master/CoderEval/Codex/self_contained/vertex3tuple,vertex3tuple,buggy_8.py,self_contained,Prompt-biased code
+https://github.com/arghavanMor/bugs_in_LLMs/tree/master/CoderEval/CodeGen/slib_runnable/split,split,buggy_6.py,slib_runnable,Prompt-biased code
+https://github.com/arghavanMor/bugs_in_LLMs/tree/master/CoderEval/CodeGen/self_contained/_replace_register,_replace_register,buggy_9.py,self_contained,Prompt-biased code
+https://github.com/arghavanMor/bugs_in_LLMs/tree/master/CoderEval/CodeGen/plib_runnable/_dump_string,_dump_string,buggy_8.py,plib_runnable,Silly Mistake / Hallucination / Misinterpretation
+https://github.com/arghavanMor/bugs_in_LLMs/tree/master/CoderEval/CodeGen/slib_runnable/split,split,buggy_8.py,slib_runnable,Silly mistake / Incomplete generation
+https://github.com/arghavanMor/bugs_in_LLMs/tree/master/CoderEval/CodeGen/slib_runnable/_c_optimizations_ignored,_c_optimizations_ignored,buggy_7.py,slib_runnable,Silly Mistake / Misinterpretation
+https://github.com/arghavanMor/bugs_in_LLMs/tree/master/CoderEval/CodeGen/self_contained/subclasses,subclasses,buggy_0.py,self_contained,Silly Mistake / Misinterpretation
+https://github.com/arghavanMor/bugs_in_LLMs/tree/master/CoderEval/Codex/slib_runnable/get_pattern,get_pattern,buggy_4.py,slib_runnable,Silly mistake / misinterpretation
+https://github.com/arghavanMor/bugs_in_LLMs/tree/master/CoderEval/CodeGen/slib_runnable/is_local,is_local,buggy_9.py,slib_runnable,Silly Mistake / Misinterpretation/Synthax error
+https://github.com/arghavanMor/bugs_in_LLMs/tree/master/CoderEval/Codex/slib_runnable/get_repo_archive,get_repo_archive,buggy_0.py,slib_runnable,Silly Mistake / Prompt biased
+https://github.com/arghavanMor/bugs_in_LLMs/tree/master/CoderEval/CodeGen/self_contained/is_fill_compute_el,is_fill_compute_el,buggy_3.py,self_contained,Silly mistake / Wrong attribute
+https://github.com/arghavanMor/bugs_in_LLMs/tree/master/CoderEval/CodeGen/slib_runnable/is_gitbash,is_gitbash,buggy_6.py,slib_runnable,Silly Mistake/Misinterpretation
+https://github.com/arghavanMor/bugs_in_LLMs/tree/master/CoderEval/CodeGen/plib_runnable/tzname_in_python2,tzname_in_python2,buggy_9.py,plib_runnable,Silly Mistake/Wrong Input Type
+https://github.com/arghavanMor/bugs_in_LLMs/tree/master/CoderEval/Codex/self_contained/int_to_string,int_to_string,buggy_1.py,self_contained,Silly mistakes
+https://github.com/arghavanMor/bugs_in_LLMs/tree/master/CoderEval/CodeGen/self_contained/int_to_string,int_to_string,buggy_4.py,self_contained,Syntax error
+https://github.com/arghavanMor/bugs_in_LLMs/tree/master/CoderEval/PanGu-Coder/self_contained/get,get,buggy_9.py,self_contained,syntax error
+https://github.com/arghavanMor/bugs_in_LLMs/tree/master/CoderEval/PanGu-Coder/slib_runnable/_resolve_string,_resolve_string,buggy_0.py,slib_runnable,syntax error
+https://github.com/arghavanMor/bugs_in_LLMs/tree/master/CoderEval/PanGu-Coder/self_contained/unit_of_work,unit_of_work,buggy_3.py,self_contained,Syntax error / failure to generate
+https://github.com/arghavanMor/bugs_in_LLMs/tree/master/CoderEval/CodeGen/plib_runnable/build_app_logger,build_app_logger,buggy_2.py,plib_runnable,Syntax error / stupid mistake
+https://github.com/arghavanMor/bugs_in_LLMs/tree/master/CoderEval/CodeGen/self_contained/int_to_string,int_to_string,buggy_3.py,self_contained,Synthax Error
+https://github.com/arghavanMor/bugs_in_LLMs/tree/master/CoderEval/Codex/slib_runnable/_resolve_string,_resolve_string,buggy_3.py,slib_runnable,Synthax error
+https://github.com/arghavanMor/bugs_in_LLMs/tree/master/CoderEval/CodeGen/plib_runnable/find_roots,find_roots,buggy_6.py,plib_runnable,Synthax error / Incomplete generation
+https://github.com/arghavanMor/bugs_in_LLMs/tree/master/CoderEval/CodeGen/self_contained/_dictsum,_dictsum,buggy_7.py,self_contained,Synthax Error / Misinterpretation
+https://github.com/arghavanMor/bugs_in_LLMs/tree/master/CoderEval/Codex/plib_runnable/tzname_in_python2,tzname_in_python2,buggy_1.py,plib_runnable,Synthax error / Missing corner case
+https://github.com/arghavanMor/bugs_in_LLMs/tree/master/CoderEval/CodeGen/slib_runnable/get_repo_archive,get_repo_archive,buggy_6.py,slib_runnable,Synthax error / non prompted consideration / Hallucinaton
+https://github.com/arghavanMor/bugs_in_LLMs/tree/master/CoderEval/CodeGen/slib_runnable/prepare_repository_from_archive,prepare_repository_from_archive,buggy_0.py,slib_runnable,Synthax error / NPC / Misinterpretation
+https://github.com/arghavanMor/bugs_in_LLMs/tree/master/CoderEval/CodeGen/self_contained/int_to_string,int_to_string,buggy_9.py,self_contained,Synthax Error / Silly Mistake / Incomplete Generation
+https://github.com/arghavanMor/bugs_in_LLMs/tree/master/CoderEval/CodeGen/slib_runnable/_parse_image_ref,_parse_image_ref,buggy_1.py,slib_runnable,Synthax error / Silly Mistakes / Misinterpretation
+https://github.com/arghavanMor/bugs_in_LLMs/tree/master/CoderEval/Codex/slib_runnable/_resolve_string,_resolve_string,buggy_5.py,slib_runnable,Synthax Error/Misinterpretation
+https://github.com/arghavanMor/bugs_in_LLMs/tree/master/CoderEval/CodeGen/self_contained/int_to_string,int_to_string,buggy_7.py,self_contained,Synthax Error/Misinterpretation/non prompted consideration
+https://github.com/arghavanMor/bugs_in_LLMs/tree/master/CoderEval/CodeGen/slib_runnable/_parse_image_ref,_parse_image_ref,buggy_7.py,slib_runnable,Synthax Error/Misinterpretation/Silly Mistake
+https://github.com/arghavanMor/bugs_in_LLMs/tree/master/CoderEval/PanGu-Coder/plib_runnable/tzname_in_python2,tzname_in_python2,buggy_0.py,plib_runnable,Wrong Attribute
+https://github.com/arghavanMor/bugs_in_LLMs/tree/master/CoderEval/Codex/slib_runnable/get_pattern,get_pattern,buggy_3.py,slib_runnable,Wrong attribute
+https://github.com/arghavanMor/bugs_in_LLMs/tree/master/CoderEval/PanGu-Coder/self_contained/minimalBases,minimalBases,buggy_6.py,self_contained,wrong attribute
+https://github.com/arghavanMor/bugs_in_LLMs/tree/master/CoderEval/PanGu-Coder/self_contained/parser_flags#completion,parser_flags,buggy_8.py,self_contained,Wrong attribute
+https://github.com/arghavanMor/bugs_in_LLMs/tree/master/CoderEval/PanGu-Coder/self_contained/_dictsum,_dictsum,buggy_8.py,self_contained,Wrong attribute
+https://github.com/arghavanMor/bugs_in_LLMs/tree/master/CoderEval/Codex/plib_runnable/xml_children_as_dict,xml_children_as_dict,buggy_8.py,plib_runnable,Wrong attribute
+https://github.com/arghavanMor/bugs_in_LLMs/tree/master/CoderEval/PanGu-Coder/self_contained/parser_flags,parser_flags,buggy_7.py,self_contained,Wrong Attribute
+https://github.com/arghavanMor/bugs_in_LLMs/tree/master/CoderEval/PanGu-Coder/plib_runnable/_extract_number_and_supplment_from_issue_element,_extract_number_and_supplment_from_issue_element,buggy_2.py,plib_runnable,Wrong attribute / Misinterpretation / Prompt bias
+https://github.com/arghavanMor/bugs_in_LLMs/tree/master/CoderEval/PanGu-Coder/plib_runnable/_dump_string,_dump_string,buggy_5.py,plib_runnable,Wrong attribute / Missing corner case
+https://github.com/arghavanMor/bugs_in_LLMs/tree/master/CoderEval/Codex/self_contained/match_pubdate,match_pubdate,buggy_1.py,self_contained,Wrong attribute / Prompt biased
+https://github.com/arghavanMor/bugs_in_LLMs/tree/master/CoderEval/PanGu-Coder/self_contained/match_pubdate,match_pubdate,buggy_9.py,self_contained,Wrong attribute / Prompt biased 
+https://github.com/arghavanMor/bugs_in_LLMs/tree/master/CoderEval/CodeGen/self_contained/paging,paging,buggy_8.py,self_contained,Wrong attribute/ non-prompted considartion 
+https://github.com/arghavanMor/bugs_in_LLMs/tree/master/CoderEval/CodeGen/self_contained/minimalBases,minimalBases,buggy_2.py,self_contained,Wrong attribute/input type
+https://github.com/arghavanMor/bugs_in_LLMs/tree/master/CoderEval/CodeGen/slib_runnable/_resolve_string,_resolve_string,buggy_1.py,slib_runnable,Wrong Attribute/Misinterpretation
+https://github.com/arghavanMor/bugs_in_LLMs/tree/master/CoderEval/CodeGen/self_contained/parser_flags,parser_flags,buggy_0.py,self_contained,Wrong Attribute/Prompt Biased
+https://github.com/arghavanMor/bugs_in_LLMs/tree/master/CoderEval/PanGu-Coder/self_contained/parser_flags#,parser_flags,buggy_7.py,self_contained,Wrong Attribute/Prompt-biased code
+https://github.com/arghavanMor/bugs_in_LLMs/tree/master/CoderEval/PanGu-Coder/self_contained/_replace_register,_replace_register,buggy_5.py,self_contained,Wrong Attribute\Misinterpretation/Silly mistake
+https://github.com/arghavanMor/bugs_in_LLMs/tree/master/CoderEval/PanGu-Coder/plib_runnable/tzname_in_python2,tzname_in_python2,buggy_4.py,plib_runnable,Wrong input / Misinterpretation
+https://github.com/arghavanMor/bugs_in_LLMs/tree/master/CoderEval/PanGu-Coder/slib_runnable/write_configuration,write_configuration,buggy_0.py,slib_runnable,Wrong input / Misinterpretation / Silly Mistake
+https://github.com/arghavanMor/bugs_in_LLMs/tree/master/CoderEval/CodeGen/slib_runnable/parse_frequency,parse_frequency,buggy_8.py,slib_runnable,Wrong Input Tye/Incomplete Generation
+https://github.com/arghavanMor/bugs_in_LLMs/tree/master/CoderEval/CodeGen/slib_runnable/regex_dict,retrieve_diaspora_host_meta,buggy_4.py,slib_runnable,Wrong Input Type
+https://github.com/arghavanMor/bugs_in_LLMs/tree/master/CoderEval/PanGu-Coder/self_contained/subclasses,subclasses,buggy_3.py,self_contained,Wrong Input Type
+https://github.com/arghavanMor/bugs_in_LLMs/tree/master/CoderEval/Codex/self_contained/round_half_to_even,round_half_to_even,buggy_5.py,self_contained,Wrong Input Type
+https://github.com/arghavanMor/bugs_in_LLMs/tree/master/CoderEval/CodeGen/self_contained/minimalBases,minimalBases,buggy_6.py,self_contained,Wrong Input Type
+https://github.com/arghavanMor/bugs_in_LLMs/tree/master/CoderEval/PanGu-Coder/self_contained/_dictsum,_dictsum,buggy_1.py,self_contained,Wrong Input Type
+https://github.com/arghavanMor/bugs_in_LLMs/tree/master/CoderEval/Codex/self_contained/_replace_register,_replace_register,buggy_6.py,self_contained,Wrong Input Type
+https://github.com/arghavanMor/bugs_in_LLMs/tree/master/CoderEval/CodeGen/self_contained/minimalBases,minimalBases,buggy_0.py,self_contained,Wrong input type
+https://github.com/arghavanMor/bugs_in_LLMs/tree/master/CoderEval/CodeGen/slib_runnable/os_is_mac,os_is_mac,buggy_2.py,slib_runnable,Wrong input type
+https://github.com/arghavanMor/bugs_in_LLMs/tree/master/CoderEval/Codex/self_contained/_dictsum,_dictsum,buggy_8.py,self_contained,Wrong Input Type
+https://github.com/arghavanMor/bugs_in_LLMs/tree/master/CoderEval/PanGu-Coder/plib_runnable/tzname_in_python2,tzname_in_python2,buggy_3.py,plib_runnable,Wrong input type / Missing corner case
+https://github.com/arghavanMor/bugs_in_LLMs/tree/master/CoderEval/CodeGen/self_contained/size_to_bytes,size_to_bytes,buggy_4.py,self_contained,Wrong Input Type / Synthax error /Prompt biased
+https://github.com/arghavanMor/bugs_in_LLMs/tree/master/CoderEval/PanGu-Coder/plib_runnable/force_string,force_string,buggy_7.py,plib_runnable,Wrong Input Type/Misinterpretation
+https://github.com/arghavanMor/bugs_in_LLMs/tree/master/CoderEval/CodeGen/slib_runnable/parse_frequency,parse_frequency,buggy_3.py,slib_runnable,Wrong Input Type/Misinterpretation
+https://github.com/arghavanMor/bugs_in_LLMs/tree/master/CoderEval/PanGu-Coder/self_contained/size_to_bytes,size_to_bytes,buggy_8.py,self_contained,Wrong Input Type/Wrong Attribute/Misinterpretation/Missing Corner Case
+https://github.com/arghavanMor/bugs_in_LLMs/tree/master/CoderEval/Codex/plib_runnable/load_configurations,load_configurations,buggy_8.py,plib_runnable,
+https://github.com/arghavanMor/bugs_in_LLMs/tree/master/CoderEval/Codex/self_contained/_fromutc,_fromutc,buggy_8.py,self_contained,
+https://github.com/arghavanMor/bugs_in_LLMs/tree/master/CoderEval/Codex/plib_runnable/identify_request,identify_request,buggy_0.py,plib_runnable,
+https://github.com/arghavanMor/bugs_in_LLMs/tree/master/CoderEval/CodeGen/slib_runnable/cached,cached,buggy_2.py,slib_runnable,
+https://github.com/arghavanMor/bugs_in_LLMs/tree/master/CoderEval/Codex/plib_runnable/_get_seq_with_type,_get_seq_with_type,buggy_3.py,plib_runnable,
+https://github.com/arghavanMor/bugs_in_LLMs/tree/master/CoderEval/Codex/plib_runnable/load_configurations,load_configurations,buggy_9.py,plib_runnable,
+https://github.com/arghavanMor/bugs_in_LLMs/tree/master/CoderEval/Codex/self_contained/_getTargetClass,_getTargetClass,buggy_1.py,self_contained,
+https://github.com/arghavanMor/bugs_in_LLMs/tree/master/CoderEval/Codex/plib_runnable/hydrate_time,hydrate_time,buggy_6.py,plib_runnable,
+https://github.com/arghavanMor/bugs_in_LLMs/tree/master/CoderEval/PanGu-Coder/plib_runnable/retrieve_diaspora_host_meta,retrieve_diaspora_host_meta,buggy_6.py,plib_runnable,
+https://github.com/arghavanMor/bugs_in_LLMs/tree/master/CoderEval/PanGu-Coder/plib_runnable/list_of_file_names,list_of_file_names,buggy_7.py,plib_runnable,
+https://github.com/arghavanMor/bugs_in_LLMs/tree/master/CoderEval/Codex/plib_runnable/identify_request,identify_request,buggy_8.py,plib_runnable,
+https://github.com/arghavanMor/bugs_in_LLMs/tree/master/CoderEval/CodeGen/plib_runnable/hydrate_time,hydrate_time,buggy_7.py,plib_runnable,
+https://github.com/arghavanMor/bugs_in_LLMs/tree/master/CoderEval/PanGu-Coder/self_contained/is_none_string,is_none_string,buggy_7.py,self_contained,
+https://github.com/arghavanMor/bugs_in_LLMs/tree/master/CoderEval/CodeGen/self_contained/register_vcs_handler,register_vcs_handler,buggy_7.py,self_contained,
+https://github.com/arghavanMor/bugs_in_LLMs/tree/master/CoderEval/CodeGen/plib_runnable/identify_request,identify_request,buggy_7.py,plib_runnable,
+https://github.com/arghavanMor/bugs_in_LLMs/tree/master/CoderEval/Codex/plib_runnable/retrieve_diaspora_host_meta,retrieve_diaspora_host_meta,buggy_5.py,plib_runnable,
+https://github.com/arghavanMor/bugs_in_LLMs/tree/master/CoderEval/CodeGen/self_contained/default_tzinfo,default_tzinfo,buggy_2.py,self_contained,
+https://github.com/arghavanMor/bugs_in_LLMs/tree/master/CoderEval/CodeGen/slib_runnable/is_local,is_local,buggy_5.py,slib_runnable,
+https://github.com/arghavanMor/bugs_in_LLMs/tree/master/CoderEval/PanGu-Coder/plib_runnable/list_of_file_names,list_of_file_names,buggy_4.py,plib_runnable,
+https://github.com/arghavanMor/bugs_in_LLMs/tree/master/CoderEval/PanGu-Coder/plib_runnable/find_roots,find_roots,buggy_4.py,plib_runnable,
+https://github.com/arghavanMor/bugs_in_LLMs/tree/master/CoderEval/PanGu-Coder/plib_runnable/find_roots,find_roots,buggy_1.py,plib_runnable,
+https://github.com/arghavanMor/bugs_in_LLMs/tree/master/CoderEval/PanGu-Coder/self_contained/register_vcs_handler,register_vcs_handler,buggy_1.py,self_contained,
+https://github.com/arghavanMor/bugs_in_LLMs/tree/master/CoderEval/PanGu-Coder/self_contained/register_vcs_handler,register_vcs_handler,buggy_3.py,self_contained,
+https://github.com/arghavanMor/bugs_in_LLMs/tree/master/CoderEval/PanGu-Coder/plib_runnable/list_of_file_names,list_of_file_names,buggy_8.py,plib_runnable,
+https://github.com/arghavanMor/bugs_in_LLMs/tree/master/CoderEval/Codex/plib_runnable/retrieve_diaspora_host_meta,retrieve_diaspora_host_meta,buggy_1.py,plib_runnable,
+https://github.com/arghavanMor/bugs_in_LLMs/tree/master/CoderEval/CodeGen/slib_runnable/match,match,buggy_1.py,slib_runnable,
+https://github.com/arghavanMor/bugs_in_LLMs/tree/master/CoderEval/Codex/self_contained/_getTargetClass,_getTargetClass,buggy_0.py,self_contained,
+https://github.com/arghavanMor/bugs_in_LLMs/tree/master/CoderEval/Codex/self_contained/string_to_int,string_to_int,buggy_5.py,self_contained,
+https://github.com/arghavanMor/bugs_in_LLMs/tree/master/CoderEval/Codex/self_contained/_getTargetClass,_getTargetClass,buggy_8.py,self_contained,
+https://github.com/arghavanMor/bugs_in_LLMs/tree/master/CoderEval/PanGu-Coder/plib_runnable/_get_seq_with_type,_get_seq_with_type,buggy_2.py,plib_runnable,
+https://github.com/arghavanMor/bugs_in_LLMs/tree/master/CoderEval/Codex/plib_runnable/_extract_number_and_supplment_from_issue_element,_extract_number_and_supplment_from_issue_element,buggy_6.py,plib_runnable,
+https://github.com/arghavanMor/bugs_in_LLMs/tree/master/CoderEval/Codex/plib_runnable/find_path_type,find_path_type,buggy_1.py,plib_runnable,
+https://github.com/arghavanMor/bugs_in_LLMs/tree/master/CoderEval/PanGu-Coder/self_contained/default_tzinfo,default_tzinfo,buggy_9.py,self_contained,
+https://github.com/arghavanMor/bugs_in_LLMs/tree/master/CoderEval/PanGu-Coder/plib_runnable/find_roots,find_roots,buggy_7.py,plib_runnable,
+https://github.com/arghavanMor/bugs_in_LLMs/tree/master/CoderEval/PanGu-Coder/self_contained/_fromutc,_fromutc,buggy_5.py,self_contained,
+https://github.com/arghavanMor/bugs_in_LLMs/tree/master/CoderEval/CodeGen/plib_runnable/list_of_file_names,list_of_file_names,buggy_3.py,plib_runnable,
+https://github.com/arghavanMor/bugs_in_LLMs/tree/master/CoderEval/PanGu-Coder/plib_runnable/retrieve_diaspora_host_meta,retrieve_diaspora_host_meta,buggy_7.py,plib_runnable,
+https://github.com/arghavanMor/bugs_in_LLMs/tree/master/CoderEval/CodeGen/plib_runnable/hydrate_time,hydrate_time,buggy_9.py,plib_runnable,
+https://github.com/arghavanMor/bugs_in_LLMs/tree/master/CoderEval/Codex/plib_runnable/identify_request,identify_request,buggy_4.py,plib_runnable,
+https://github.com/arghavanMor/bugs_in_LLMs/tree/master/CoderEval/CodeGen/self_contained/register_vcs_handler,register_vcs_handler,buggy_9.py,self_contained,
+https://github.com/arghavanMor/bugs_in_LLMs/tree/master/CoderEval/CodeGen/self_contained/default_tzinfo,default_tzinfo,buggy_8.py,self_contained,
+https://github.com/arghavanMor/bugs_in_LLMs/tree/master/CoderEval/CodeGen/plib_runnable/load_configurations,load_configurations,buggy_5.py,plib_runnable,
+https://github.com/arghavanMor/bugs_in_LLMs/tree/master/CoderEval/Codex/plib_runnable/identify_request,identify_request,buggy_5.py,plib_runnable,
+https://github.com/arghavanMor/bugs_in_LLMs/tree/master/CoderEval/CodeGen/slib_runnable/files_list_from_zipfile,files_list_from_zipfile,buggy_3.py,slib_runnable,
+https://github.com/arghavanMor/bugs_in_LLMs/tree/master/CoderEval/CodeGen/slib_runnable/match,match,buggy_5.py,slib_runnable,
+https://github.com/arghavanMor/bugs_in_LLMs/tree/master/CoderEval/CodeGen/self_contained/_getTargetClass,_getTargetClass,buggy_2.py,self_contained,
+https://github.com/arghavanMor/bugs_in_LLMs/tree/master/CoderEval/Codex/slib_runnable/files_list_from_zipfile,files_list_from_zipfile,buggy_3.py,slib_runnable,
+https://github.com/arghavanMor/bugs_in_LLMs/tree/master/CoderEval/CodeGen/self_contained/_getTargetClass,_getTargetClass,buggy_4.py,self_contained,
+https://github.com/arghavanMor/bugs_in_LLMs/tree/master/CoderEval/PanGu-Coder/plib_runnable/hydrate_time,hydrate_time,buggy_6.py,plib_runnable,
+https://github.com/arghavanMor/bugs_in_LLMs/tree/master/CoderEval/PanGu-Coder/plib_runnable/retrieve_diaspora_host_meta,retrieve_diaspora_host_meta,buggy_5.py,plib_runnable,
+https://github.com/arghavanMor/bugs_in_LLMs/tree/master/CoderEval/PanGu-Coder/self_contained/_fromutc,_fromutc,buggy_0.py,self_contained,
+https://github.com/arghavanMor/bugs_in_LLMs/tree/master/CoderEval/PanGu-Coder/plib_runnable/find_path_type,find_path_type,buggy_3.py,plib_runnable,
+https://github.com/arghavanMor/bugs_in_LLMs/tree/master/CoderEval/Codex/self_contained/_fromutc,_fromutc,buggy_4.py,self_contained,
+https://github.com/arghavanMor/bugs_in_LLMs/tree/master/CoderEval/CodeGen/plib_runnable/identify_request,identify_request,buggy_9.py,plib_runnable,
+https://github.com/arghavanMor/bugs_in_LLMs/tree/master/CoderEval/PanGu-Coder/plib_runnable/retrieve_diaspora_host_meta,retrieve_diaspora_host_meta,buggy_3.py,plib_runnable,
+https://github.com/arghavanMor/bugs_in_LLMs/tree/master/CoderEval/Codex/self_contained/base_config,base_config,buggy_2.py,self_contained,
+https://github.com/arghavanMor/bugs_in_LLMs/tree/master/CoderEval/Codex/plib_runnable/retrieve_diaspora_host_meta,retrieve_diaspora_host_meta,buggy_0.py,plib_runnable,
+https://github.com/arghavanMor/bugs_in_LLMs/tree/master/CoderEval/PanGu-Coder/self_contained/base_config,base_config,buggy_5.py,self_contained,
+https://github.com/arghavanMor/bugs_in_LLMs/tree/master/CoderEval/PanGu-Coder/self_contained/_fromutc,_fromutc,buggy_1.py,self_contained,
+https://github.com/arghavanMor/bugs_in_LLMs/tree/master/CoderEval/PanGu-Coder/self_contained/base_config,base_config,buggy_4.py,self_contained,
+https://github.com/arghavanMor/bugs_in_LLMs/tree/master/CoderEval/PanGu-Coder/slib_runnable/match,match,buggy_9.py,slib_runnable,
+https://github.com/arghavanMor/bugs_in_LLMs/tree/master/CoderEval/PanGu-Coder/plib_runnable/identify_request,identify_request,buggy_1.py,plib_runnable,
+https://github.com/arghavanMor/bugs_in_LLMs/tree/master/CoderEval/PanGu-Coder/plib_runnable/find_roots,find_roots,buggy_2.py,plib_runnable,

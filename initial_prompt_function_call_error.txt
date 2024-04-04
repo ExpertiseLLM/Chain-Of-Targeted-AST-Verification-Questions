@@ -1,0 +1,43 @@
+Generate questions based on this example :
+[EXAMPLES]
+<CODE> : def subclasses(cls):
+	"""
+	Return all subclasses of a class, recursively
+	"""
+	subclasses = []
+	for subclass in cls.__subclasses__():
+		subclasses.extend(subclasses(subclass))
+	return subclasses
+ <QUESTIONS>: Can you verify that all used modules are imported? if not, import it an rewrite it
+ Can you verify that these method call will not generate attribute error : subclasses.extend,cls.__subclasses__?
+<CODE>: def _c_optimizations_required():
+	"""
+	Return a true value if the C optimizations are required.
+
+This uses the ``PURE_PYTHON`` variable as documented in `_use_c_impl`.
+	"""
+	if not os.environ.get('PURE_PYTHON'):
+		return True
+
+	if os.path.exists(os.path.join(os.path.dirname(__file__), 'c/c_optimizations.py')):
+		return True
+
+	return False
+ <QUESTIONS> Can you verify that all used modules are imported? if not, import it an rewrite it
+ Are there potential attribute errors in the code due to method calls? Specifically, verify if there could be attribute errors related to os.path.join,os.environ.get,os.path.exists,os.path.dirname
+ and if so, propose any necessary modifications to prevent such errors?
+[END EXAMPLES]
+<CODE> : def get_logical_path_map(inventory, version):
+	logical_path_map = {}
+	for i in inventory.get_files():
+		content_files = set()
+		for f in i.find(version):
+			if f.is_executable:
+				file_id = f.file_id.encode('utf-8')
+				content_files.add(file_id)
+			else:
+				path = f.path_utf8
+				content_files.add(path)
+		logical_path_map[i.utf8] = content_files
+	return logical_path_map
+<QUESTIONS>

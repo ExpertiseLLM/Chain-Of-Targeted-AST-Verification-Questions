@@ -1,0 +1,12 @@
+def _get_seq_with_type(seq, bufsize=None):
+	"""
+	Return a (sequence, type) pair.
+Sequence is derived from *seq*
+(or is *seq*, if that is of a sequence type).
+	"""
+	if bufsize is None:
+		return seq, type(seq)
+	else:
+		assert type(seq) is type(bufsize)
+		return seq, bufsize.get_type()
+

@@ -1,0 +1,6 @@
+Are there any potential attribute errors in the code due to method calls?
+Specifically, check for possible attribute errors related to <attribute-nodes>.
+If any such errors may occur, propose modifications to prevent them.
+
+Are all these <functions-name>  already defined in python or in this code ?
+if not give an implementation of the one non existing.

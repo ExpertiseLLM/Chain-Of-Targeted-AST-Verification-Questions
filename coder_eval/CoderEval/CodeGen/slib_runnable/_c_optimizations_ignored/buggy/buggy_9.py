@@ -1,0 +1,157 @@
+def _c_optimizations_ignored():
+	"""
+	The opposite of `_c_optimizations_required`.
+	"""
+	return [
+		{
+			"name": "gcc_optimizations",
+			"args": [
+				"-m",
+				"-x",
+				"gnu",
+				"-Werror",
+				"-g",
+				"-fopenmp",
+			],
+			"output": "out.o",
+			"error": "out.c",
+		},
+		{
+			"name": "clang_optimizations",
+			"args": [
+				"-m",
+				"-x",
+				"gnu",
+				"-Werror",
+				"-g",
+				"-fopenmp",
+			],
+			"output": "out.o",
+			"error": "out.c",
+		},
+		{
+			"name": "clang_error",
+			"args": [
+				"-m",
+				"-x",
+				"gnu",
+				"-Werror",
+				"-g",
+				"-fopenmp",
+			],
+			"output": "out.o",
+			"error": "out.c",
+		},
+		{
+			"name": "clang_error_c",
+			"args": [
+				"-m",
+				"-x",
+				"gnu",
+				"-Werror",
+				"-g",
+				"-fopenmp",
+			],
+			"output": "out.o",
+			"error": "out.c",
+		},
+		{
+			"name": "clang_error_c++",
+			"args": [
+				"-m",
+				"-x",
+				"gnu",
+				"-Werror",
+				"-g",
+				"-fopenmp",
+			],
+			"output": "out.o",
+			"error": "out.c",
+		},
+		{
+			"name": "clang_error_c_plusplus",
+			"args": [
+				"-m",
+				"-x",
+				"gnu",
+				"-Werror",
+				"-g",
+				"-fopenmp",
+			],
+			"output": "out.o",
+			"error": "out.c",
+		},
+		{
+			"name": "clang_error_c++_plusplus",
+			"args": [
+				"-m",
+				"-x",
+				"gnu",
+				"-Werror",
+				"-g",
+				"-fopenmp",
+			],
+			"output": "out.o",
+			"error": "out.c",
+		},
+		{
+			"name": "clang_error_c_plusplus_plusplus",
+			"args": [
+				"-m",
+				"-x",
+				"gnu",
+				"-Werror",
+				"-g",
+				"-fopenmp",
+			],
+			"output": "out.o",
+			"error": "out.c",
+		},
+		{
+			"name": "clang_error_c++_plusplus_plusplus",
+			"args": [
+				"-m",
+				"-x",
+				"gnu",
+				"-Werror",
+				"-g",
+				"-fopenmp",
+			],
+			"output": "out.o",
+			"error": "out.c",
+		},
+		{
+			"name": "clang_error_c++_plusplus_plusplus",
+			"args": [
+				"-m",
+				"-x",
+				"gnu",
+				"-Werror",
+				"-g",
+				"-fopenmp",
+			],
+			"output": "out.o",
+			"error": "out.c",
+		},
+		{
+			"name": "clang_error_c++_plusplus_plusplus",
+			"args": [
+				"-m",
+				"-x",
+				"gnu",
+				"-Werror",
+				"-g",
+				"-fopenmp",
+			],
+			"output": "out.o",
+			"error": "out.c",
+		},
+		{
+			"name": "clang_error_c_plusplus_plusplus",
+			"args": [
+				"-m",
+				"-x",
+				"gnu",
+				"-Werror",
+				"-g",
+				"

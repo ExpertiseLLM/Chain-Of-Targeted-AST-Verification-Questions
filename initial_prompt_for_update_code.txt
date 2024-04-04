@@ -1,0 +1,95 @@
+<Examples>
+1. <code>
+    @classmethod
+    def _reset_logging(cls):
+        """
+        Reset
+        """
+
+        # Found no way to fully reset the logging stuff while running
+        # We reset root and all loggers to INFO, and kick handlers
+
+        # Initialize
+        root = logging.getLogger()
+        root.setLevel(logging.getLevel("INFO"))
+        for h in root.handlers:
+            # noinspection PyBroadException
+            try:
+                h.close()
+            except:
+                pass
+        root.handlers = []
+
+        # Browse all loggers and set
+        for name in logging.root.manager.loggerDict:
+            cur_logger = logging.getLogger(name)
+            cur_logger.setLevel(logging.getLevel("INFO"))
+            for h in cur_logger.handlers:
+                # noinspection PyBroadException
+                try:
+                    h.close()
+                except:
+                    pass
+            cur_logger.handlers = []
+<question>
+ Are there potential attribute errors in the code due to method calls? Specifically, verify if there could be attribute errors related to logging.getLogger,logging.getLevel,root.handlers,curl_logger.setLevel, curl_logger.handlers, h.close
+ and if so, propose any necessary modifications to prevent such errors.
+<correction>
+@classmethod
+    def _reset_logging(cls):
+        """
+        Reset
+        """
+
+        # Found no way to fully reset the logging stuff while running
+        # We reset root and all loggers to INFO, and kick handlers
+
+        # Initialize
+        root = logging.getLogger()
+        root.setLevel(logging.getLevelName("INFO"))
+        for h in root.handlers:
+            # noinspection PyBroadException
+            try:
+                h.close()
+            except:
+                pass
+        root.handlers = []
+
+        # Browse all loggers and set
+        for name in logging.root.manager.loggerDict:
+            cur_logger = logging.getLogger(name)
+            cur_logger.setLevel(logging.getLevelName("INFO"))
+            for h in cur_logger.handlers:
+                # noinspection PyBroadException
+                try:
+                    h.close()
+                except:
+                    pass
+            cur_logger.handlers = []
+
+2. <code>
+import addressip
+def is_ipv4(target):
+    """ Test if IPv4 address or not
+    """
+    try:
+       chk = addressip.IPv4Address(target)
+       return True
+    except addressip.AddressValueError:
+       return False
+   <question>
+is all the necessary modules imported ?
+is addressip an existing module in python ? if not use the corresponding good module
+Could one of these nodes, addressip.IPv4Address, addressip.AddressValueError lead to an attribute error ? if yes, modify these node to prevent an attribute error
+   <correction>
+import ipaddress
+def is_ipv4(target):
+    """ Test if IPv4 address or not
+    """
+    try:
+       chk = ipaddress.IPv4Address(target)
+       return True
+    except ipaddress.AddressValueError:
+       return False
+
+[END EXAMPLES]

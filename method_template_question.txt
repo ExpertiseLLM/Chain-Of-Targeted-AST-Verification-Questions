@@ -1,0 +1,2 @@
+Are all these <functions-name>  already defined in python or in this code ?
+if not give a complete implementation of the one non existing without 'pass' instruction.

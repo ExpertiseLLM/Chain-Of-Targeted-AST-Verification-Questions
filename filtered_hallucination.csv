@@ -1,0 +1,79 @@
+,link to repo,func_name,buggy_id,level,Labels,_id
+0,https://github.com/arghavanMor/bugs_in_LLMs/tree/master/CoderEval/Codex/slib_runnable/_c_optimizations_ignored,_c_optimizations_ignored,buggy_3.py,slib_runnable,hallucination,62b8b3d4eb7e40a82d2d110e
+1,https://github.com/arghavanMor/bugs_in_LLMs/tree/master/CoderEval/PanGu-Coder/self_contained/_dictsum,_dictsum,buggy_8.py,self_contained,Wrong attribute,62ece4982e6aefcf4aabbd61
+2,https://github.com/arghavanMor/bugs_in_LLMs/tree/master/CoderEval/PanGu-Coder/self_contained/_dictsum,_dictsum,buggy_1.py,self_contained,Wrong Input Type,62ece4982e6aefcf4aabbd61
+3,https://github.com/arghavanMor/bugs_in_LLMs/tree/master/CoderEval/CodeGen/plib_runnable/_dump_string,_dump_string,buggy_8.py,plib_runnable,Silly Mistake / Hallucination / Misinterpretation,62ece4992e6aefcf4aabbd86
+4,https://github.com/arghavanMor/bugs_in_LLMs/tree/master/CoderEval/Codex/plib_runnable/_dump_string,_dump_string,buggy_9.py,plib_runnable,Hallucination / Wrong input type / wrong attribute,62ece4992e6aefcf4aabbd86
+5,https://github.com/arghavanMor/bugs_in_LLMs/tree/master/CoderEval/Codex/plib_runnable/_extract_number_and_supplment_from_issue_element,_extract_number_and_supplment_from_issue_element,buggy_0.py,plib_runnable,Misinterpretation / Wrong Attribute,62b463303879012d19481579
+6,https://github.com/arghavanMor/bugs_in_LLMs/tree/master/CoderEval/Codex/plib_runnable/_extract_number_and_supplment_from_issue_element,_extract_number_and_supplment_from_issue_element,buggy_6.py,plib_runnable,Wrong attribute / misinterpretation,62b463303879012d19481579
+7,https://github.com/arghavanMor/bugs_in_LLMs/tree/master/CoderEval/PanGu-Coder/self_contained/_legacy_mergeOrderings,_legacy_mergeOrderings,buggy_7.py,self_contained,Hallucination,62b8b590eb7e40a82d2d1275
+8,https://github.com/arghavanMor/bugs_in_LLMs/tree/master/CoderEval/CodeGen/self_contained/_replace_register,_replace_register,buggy_1.py,self_contained,hallucination,62ece4982e6aefcf4aabbd69
+9,https://github.com/arghavanMor/bugs_in_LLMs/tree/master/CoderEval/Codex/self_contained/_replace_register,_replace_register,buggy_4.py,self_contained,hallucination,62ece4982e6aefcf4aabbd69
+10,https://github.com/arghavanMor/bugs_in_LLMs/tree/master/CoderEval/CodeGen/self_contained/_replace_register,_replace_register,buggy_1.py,self_contained,Wrong Attribute,62ece4982e6aefcf4aabbd69
+11,https://github.com/arghavanMor/bugs_in_LLMs/tree/master/CoderEval/Codex/self_contained/_replace_register,_replace_register,buggy_4.py,self_contained,Wrong Attribute Type ,62ece4982e6aefcf4aabbd69
+12,https://github.com/arghavanMor/bugs_in_LLMs/tree/master/CoderEval/Codex/self_contained/_replace_register,_replace_register,buggy_6.py,self_contained,Wrong Input Type,62ece4982e6aefcf4aabbd69
+13,https://github.com/arghavanMor/bugs_in_LLMs/tree/master/CoderEval/PanGu-Coder/slib_runnable/_resolve_string,_resolve_string,buggy_0.py,slib_runnable,syntax error/ Wrong Attribute Type,62ece4992e6aefcf4aabbd7e
+14,https://github.com/arghavanMor/bugs_in_LLMs/tree/master/CoderEval/CodeGen/slib_runnable/addignored,addignored,buggy_1.py,slib_runnable,Misinterpretation/Wrong Attribute/Silly Mistake,62ece4982e6aefcf4aabbd75
+15,https://github.com/arghavanMor/bugs_in_LLMs/tree/master/CoderEval/CodeGen/slib_runnable/files_list_from_zipfile,files_list_from_zipfile,buggy_9.py,slib_runnable,"Prompt biased, Wrong Input Type",62b463163879012d194814a6
+16,https://github.com/arghavanMor/bugs_in_LLMs/tree/master/CoderEval/PanGu-Coder/plib_runnable/force_string,force_string,buggy_7.py,plib_runnable,Wrong Input Type/Misinterpretation,62ece4992e6aefcf4aabbd8b
+17,https://github.com/arghavanMor/bugs_in_LLMs/tree/master/CoderEval/PanGu-Coder/self_contained/get,get,buggy_3.py,self_contained,Wrong Attribute Type ,62b8d22948ba5a41d1c3f47c
+18,https://github.com/arghavanMor/bugs_in_LLMs/tree/master/CoderEval/PanGu-Coder/self_contained/get,get,buggy_3.py,self_contained,hallucination,62b8d22948ba5a41d1c3f47c
+19,https://github.com/arghavanMor/bugs_in_LLMs/tree/master/CoderEval/PanGu-Coder/self_contained/get_logical_path_map,get_logical_path_map,buggy_0.py,self_contained,hallucination,62b45e165108cfac7f210a17
+20,https://github.com/arghavanMor/bugs_in_LLMs/tree/master/CoderEval/PanGu-Coder/self_contained/get_logical_path_map,get_logical_path_map,buggy_3.py,self_contained,Hallucination,62b45e165108cfac7f210a17
+21,https://github.com/arghavanMor/bugs_in_LLMs/tree/master/CoderEval/Codex/self_contained/get_logical_path_map,get_logical_path_map,buggy_5.py,self_contained,Wrong Attribute,62b45e165108cfac7f210a17
+22,https://github.com/arghavanMor/bugs_in_LLMs/tree/master/CoderEval/Codex/slib_runnable/get_pattern,get_pattern,buggy_3.py,slib_runnable,Wrong Attribute/NPC,62ece4992e6aefcf4aabbd82
+23,https://github.com/arghavanMor/bugs_in_LLMs/tree/master/CoderEval/PanGu-Coder/slib_runnable/get_repo_archive,get_repo_archive,buggy_6.py,slib_runnable,NPC/Misinterpretation / Wrong Input Type,62ece4982e6aefcf4aabbd6f
+24,https://github.com/arghavanMor/bugs_in_LLMs/tree/master/CoderEval/CodeGen/self_contained/is_fill_compute_el,is_fill_compute_el,buggy_4.py,self_contained,Misinterpretation/ wrong attribute / silly mistake,62b87af69a0c4fa8b80b351a
+25,https://github.com/arghavanMor/bugs_in_LLMs/tree/master/CoderEval/CodeGen/self_contained/is_fill_compute_el,is_fill_compute_el,buggy_3.py,self_contained,Silly mistake / Wrong attribute,62b87af69a0c4fa8b80b351a
+26,https://github.com/arghavanMor/bugs_in_LLMs/tree/master/CoderEval/PanGu-Coder/self_contained/is_fill_compute_el,is_fill_compute_el,buggy_3.py,self_contained,Hallucination,62b87af69a0c4fa8b80b351a
+27,https://github.com/arghavanMor/bugs_in_LLMs/tree/master/CoderEval/PanGu-Coder/self_contained/is_fill_request_el,is_fill_request_el,buggy_2.py,self_contained,Hallucination,62b87b099a0c4fa8b80b3538
+28,https://github.com/arghavanMor/bugs_in_LLMs/tree/master/CoderEval/Codex/slib_runnable/is_local,is_local,buggy_1.py,slib_runnable,Missing corner case / Hallucination,62ece4992e6aefcf4aabbd78
+29,https://github.com/arghavanMor/bugs_in_LLMs/tree/master/CoderEval/Codex/slib_runnable/make_find_paths,make_find_paths,buggy_6.py,slib_runnable,hallucination,62ece4992e6aefcf4aabbd79
+30,https://github.com/arghavanMor/bugs_in_LLMs/tree/master/CoderEval/Codex/slib_runnable/make_find_paths,make_find_paths,buggy_5.py,slib_runnable,Hallucination,62ece4992e6aefcf4aabbd79
+31,https://github.com/arghavanMor/bugs_in_LLMs/tree/master/CoderEval/PanGu-Coder/slib_runnable/make_find_paths,make_find_paths,buggy_1.py,slib_runnable,hallucination,62ece4992e6aefcf4aabbd79
+32,https://github.com/arghavanMor/bugs_in_LLMs/tree/master/CoderEval/PanGu-Coder/slib_runnable/make_find_paths,make_find_paths,buggy_1.py,slib_runnable,Hallucination,62ece4992e6aefcf4aabbd79
+33,https://github.com/arghavanMor/bugs_in_LLMs/tree/master/CoderEval/PanGu-Coder/slib_runnable/match_file_by_prefix,match_file_by_prefix,buggy_7.py,slib_runnable,Hallucination,62b463153879012d1948149b
+34,https://github.com/arghavanMor/bugs_in_LLMs/tree/master/CoderEval/CodeGen/self_contained/match_pubdate,match_pubdate,buggy_5.py,self_contained,Hallucination,62b463283879012d1948153d
+35,https://github.com/arghavanMor/bugs_in_LLMs/tree/master/CoderEval/Codex/self_contained/match_pubdate,match_pubdate,buggy_1.py,self_contained,Wrong attribute / Prompt biased,62b463283879012d1948153d
+36,https://github.com/arghavanMor/bugs_in_LLMs/tree/master/CoderEval/CodeGen/self_contained/match_pubdate,match_pubdate,buggy_0.py,self_contained,Wrong Attribute Type / Prompt-biased code,62b463283879012d1948153d
+37,https://github.com/arghavanMor/bugs_in_LLMs/tree/master/CoderEval/CodeGen/self_contained/match_pubdate,match_pubdate,buggy_0.py,self_contained,hallucination / Prompt-biased,62b463283879012d1948153d
+38,https://github.com/arghavanMor/bugs_in_LLMs/tree/master/CoderEval/PanGu-Coder/self_contained/match_pubdate,match_pubdate,buggy_9.py,self_contained,Wrong attribute / Prompt biased ,62b463283879012d1948153d
+39,https://github.com/arghavanMor/bugs_in_LLMs/tree/master/CoderEval/CodeGen/self_contained/minimalBases,minimalBases,buggy_0.py,self_contained,Wrong input type,62b8b559eb7e40a82d2d11f8
+40,https://github.com/arghavanMor/bugs_in_LLMs/tree/master/CoderEval/PanGu-Coder/self_contained/minimalBases,minimalBases,buggy_6.py,self_contained,wrong attribute,62b8b559eb7e40a82d2d11f8
+41,https://github.com/arghavanMor/bugs_in_LLMs/tree/master/CoderEval/CodeGen/self_contained/minimalBases,minimalBases,buggy_6.py,self_contained,Wrong Input Type,62b8b559eb7e40a82d2d11f8
+42,https://github.com/arghavanMor/bugs_in_LLMs/tree/master/CoderEval/CodeGen/self_contained/minimalBases,minimalBases,buggy_2.py,self_contained,Wrong attribute/input type,62b8b559eb7e40a82d2d11f8
+43,https://github.com/arghavanMor/bugs_in_LLMs/tree/master/CoderEval/PanGu-Coder/self_contained/minimalBases,minimalBases,buggy_4.py,self_contained,Hallucination,62b8b559eb7e40a82d2d11f8
+44,https://github.com/arghavanMor/bugs_in_LLMs/tree/master/CoderEval/CodeGen/slib_runnable/os_is_mac,os_is_mac,buggy_2.py,slib_runnable,Wrong input type,62ece4982e6aefcf4aabbd70
+45,https://github.com/arghavanMor/bugs_in_LLMs/tree/master/CoderEval/Codex/self_contained/paging,paging,buggy_6.py,self_contained,Hallucination / Incomplete generation,62ece4982e6aefcf4aabbd5f
+46,https://github.com/arghavanMor/bugs_in_LLMs/tree/master/CoderEval/CodeGen/self_contained/paging,paging,buggy_8.py,self_contained,Wrong attribute/ non-prompted considartion ,62ece4982e6aefcf4aabbd5f
+47,https://github.com/arghavanMor/bugs_in_LLMs/tree/master/CoderEval/Codex/self_contained/paging,paging,buggy_0.py,self_contained,Hallucination,62ece4982e6aefcf4aabbd5f
+48,https://github.com/arghavanMor/bugs_in_LLMs/tree/master/CoderEval/Codex/self_contained/paging,paging,buggy_0.py,self_contained,Hallucination/Silly Mistake,62ece4982e6aefcf4aabbd5f
+49,https://github.com/arghavanMor/bugs_in_LLMs/tree/master/CoderEval/CodeGen/slib_runnable/parse_frequency,parse_frequency,buggy_8.py,slib_runnable,Wrong Input Tye/Incomplete Generation,62ece4982e6aefcf4aabbd77
+50,https://github.com/arghavanMor/bugs_in_LLMs/tree/master/CoderEval/CodeGen/slib_runnable/parse_frequency,parse_frequency,buggy_3.py,slib_runnable,Wrong Input Type/Misinterpretation,62ece4982e6aefcf4aabbd77
+51,https://github.com/arghavanMor/bugs_in_LLMs/tree/master/CoderEval/PanGu-Coder/self_contained/parser_flags#,parser_flags,buggy_7.py,self_contained,Wrong Attribute/Prompt-biased code,62b45679d7d32e5b55cc83a9
+52,https://github.com/arghavanMor/bugs_in_LLMs/tree/master/CoderEval/PanGu-Coder/self_contained/parser_flags,parser_flags,buggy_7.py,self_contained,Wrong Attribute,62b45679d7d32e5b55cc83a9
+53,https://github.com/arghavanMor/bugs_in_LLMs/tree/master/CoderEval/Codex/self_contained/parser_flags#,parser_flags,buggy_1.py,self_contained,Wrong Attribute,62b45679d7d32e5b55cc83a9
+54,https://github.com/arghavanMor/bugs_in_LLMs/tree/master/CoderEval/CodeGen/self_contained/parser_flags,parser_flags,buggy_5.py,self_contained,Hallucination / Wrong attribute / Prompt Biased,62b45679d7d32e5b55cc83a9
+55,https://github.com/arghavanMor/bugs_in_LLMs/tree/master/CoderEval/CodeGen/self_contained/parser_flags,parser_flags,buggy_0.py,self_contained,Wrong Attribute/Prompt Biased,62b45679d7d32e5b55cc83a9
+56,https://github.com/arghavanMor/bugs_in_LLMs/tree/master/CoderEval/PanGu-Coder/self_contained/parser_flags#completion,parser_flags,buggy_8.py,self_contained,Wrong attribute,62b45679d7d32e5b55cc83a9
+57,https://github.com/arghavanMor/bugs_in_LLMs/tree/master/CoderEval/Codex/plib_runnable/process_text_links,process_text_links,buggy_2.py,plib_runnable,Hallucination,6306292352e177c0ba469f1e
+58,https://github.com/arghavanMor/bugs_in_LLMs/tree/master/CoderEval/CodeGen/slib_runnable/regex_dict,regex_dict,buggy_0.py,slib_runnable,Prompt-biased code/Wrong Input Type,62ece4982e6aefcf4aabbd71
+59,https://github.com/arghavanMor/bugs_in_LLMs/tree/master/CoderEval/CodeGen/slib_runnable/regex_dict,regex_dict,buggy_4.py,slib_runnable,Wrong Input Type,62ece4982e6aefcf4aabbd71
+60,https://github.com/arghavanMor/bugs_in_LLMs/tree/master/CoderEval/Codex/self_contained/round_half_to_even,round_half_to_even,buggy_5.py,self_contained,Wrong Input Type,62e60723d76274f8a4026b75
+61,https://github.com/arghavanMor/bugs_in_LLMs/tree/master/CoderEval/PanGu-Coder/slib_runnable/run_command,run_command,buggy_8.py,slib_runnable,Hallucination,62b87d23d292efb640a5566b
+62,https://github.com/arghavanMor/bugs_in_LLMs/tree/master/CoderEval/PanGu-Coder/self_contained/size_to_bytes,size_to_bytes,buggy_8.py,self_contained,Wrong Input Type/Wrong Attribute/Missing Corner Case,62ece4982e6aefcf4aabbd60
+63,https://github.com/arghavanMor/bugs_in_LLMs/tree/master/CoderEval/CodeGen/self_contained/size_to_bytes,size_to_bytes,buggy_8.py,self_contained,Misinterpretation / Synthax Error/ Wrong Input Type,62ece4982e6aefcf4aabbd60
+64,https://github.com/arghavanMor/bugs_in_LLMs/tree/master/CoderEval/PanGu-Coder/self_contained/size_to_bytes,size_to_bytes,buggy_2.py,self_contained,Misinterpretation/Wrong Input Type,62ece4982e6aefcf4aabbd60
+65,https://github.com/arghavanMor/bugs_in_LLMs/tree/master/CoderEval/PanGu-Coder/self_contained/subclasses,subclasses,buggy_6.py,self_contained,Wrong Input Type,62ece4982e6aefcf4aabbd6b
+66,https://github.com/arghavanMor/bugs_in_LLMs/tree/master/CoderEval/CodeGen/self_contained/subclasses,subclasses,buggy_8.py,self_contained,Misinterpretation/Wrong Attribute/Wrong Input Type,62ece4982e6aefcf4aabbd6b
+67,https://github.com/arghavanMor/bugs_in_LLMs/tree/master/CoderEval/PanGu-Coder/self_contained/subclasses,subclasses,buggy_3.py,self_contained,Wrong Input Type,62ece4982e6aefcf4aabbd6b
+68,https://github.com/arghavanMor/bugs_in_LLMs/tree/master/CoderEval/CodeGen/plib_runnable/tzname_in_python2,tzname_in_python2,buggy_1.py,plib_runnable,hallucination / misinterpretation,62b89640755ee91dce50a114
+69,https://github.com/arghavanMor/bugs_in_LLMs/tree/master/CoderEval/CodeGen/plib_runnable/tzname_in_python2,tzname_in_python2,buggy_1.py,plib_runnable,Wrong Attribute Type / misinterpretation,62b89640755ee91dce50a114
+70,https://github.com/arghavanMor/bugs_in_LLMs/tree/master/CoderEval/PanGu-Coder/plib_runnable/tzname_in_python2,tzname_in_python2,buggy_0.py,plib_runnable,Wrong Attribute,62b89640755ee91dce50a114
+71,https://github.com/arghavanMor/bugs_in_LLMs/tree/master/CoderEval/PanGu-Coder/plib_runnable/tzname_in_python2,tzname_in_python2,buggy_4.py,plib_runnable,Wrong input / Misinterpretation,62b89640755ee91dce50a114
+72,https://github.com/arghavanMor/bugs_in_LLMs/tree/master/CoderEval/Codex/self_contained/unit_of_work,unit_of_work,buggy_1.py,self_contained,Incomplete generation / Hallucination,62e60e49d76274f8a4026d25
+73,https://github.com/arghavanMor/bugs_in_LLMs/tree/master/CoderEval/CodeGen/self_contained/unit_of_work,unit_of_work,buggy_0.py,self_contained,hallucinations,62e60e49d76274f8a4026d25
+74,https://github.com/arghavanMor/bugs_in_LLMs/tree/master/CoderEval/Codex/self_contained/unit_of_work,unit_of_work,buggy_3.py,self_contained,Prompt biased / Wrong attribute,62e60e49d76274f8a4026d25
+75,https://github.com/arghavanMor/bugs_in_LLMs/tree/master/CoderEval/CodeGen/self_contained/unit_of_work,unit_of_work,buggy_3.py,self_contained,Prompt biased / Wrong attribute,62e60e49d76274f8a4026d25
+76,https://github.com/arghavanMor/bugs_in_LLMs/tree/master/CoderEval/PanGu-Coder/slib_runnable/write_configuration,write_configuration,buggy_0.py,slib_runnable,Wrong input / Misinterpretation / Silly Mistake,62ece4992e6aefcf4aabbd7b
+77,https://github.com/arghavanMor/bugs_in_LLMs/tree/master/CoderEval/Codex/plib_runnable/xml_children_as_dict,xml_children_as_dict,buggy_8.py,plib_runnable,Wrong attribute,6306298b52e177c0ba469fdc
